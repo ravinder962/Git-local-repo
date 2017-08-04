@@ -1,1 +1,6 @@
+<<<<<<< .merge_file_DUZsd0
 merging file form branch1
+ravinder merge data files to master
+=======
+for file merge from branch2
+>>>>>>> .merge_file_4QoXRY
